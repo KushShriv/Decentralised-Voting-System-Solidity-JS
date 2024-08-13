@@ -1,4 +1,4 @@
-# Decentralized-Voting-System-Using-Ethereum-Blockchain
+# Decentralised-Voting-System-Using-Ethereum-Blockchain
 
 > The Decentralized Voting System utilizing Ethereum Blockchain offers a secure and transparent method for conducting elections. <br>
 > By harnessing Ethereum's blockchain technology, this system guarantees tamper-resistant voting records, allowing users to vote remotely while preserving their anonymity and preventing fraudulent activities. <br>
