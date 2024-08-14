@@ -168,5 +168,4 @@ blockchain-voting-dapp            # Root directory of the project.
 └── truffle-config.js             # Truffle configuration file.
 ```
 
-
 > Inspired By [Decentralised Voting System - Krish Depani](https://github.com/Krish-Depani/Decentralized-Voting-System)
