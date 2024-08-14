@@ -1,6 +1,6 @@
-# Decentralized-Voting-System-Using-Ethereum-Blockchain
+# Decentralised-Voting-System-Using-Ethereum-Blockchain
 
-> The Decentralized Voting System utilizing Ethereum Blockchain offers a secure and transparent method for conducting elections. <br>
+> The Decentralised Voting System utilizing Ethereum Blockchain offers a secure and transparent method for conducting elections. <br>
 > By harnessing Ethereum's blockchain technology, this system guarantees tamper-resistant voting records, allowing users to vote remotely while preserving their anonymity and preventing fraudulent activities. <br>
 > Discover this cutting-edge project for reliable and decentralized voting procedures.
 
@@ -167,5 +167,6 @@ blockchain-voting-dapp            # Root directory of the project.
 ├── README.md                     # Project documentation.
 └── truffle-config.js             # Truffle configuration file.
 ```
+
 
 > Inspired By [Decentralised Voting System - Krish Depani](https://github.com/Krish-Depani/Decentralized-Voting-System)
